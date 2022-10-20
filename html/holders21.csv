@@ -1,19 +1,31 @@
 position,person,personID,start,end
 Chairman of the Presidential Council,Fayez al-Sarraj,Q21089561,2016-03-30,2021-03-15
 Chairman of the Presidential Council,Mohamed al-Menfi,Q105319610,2021-03-15,
+Prime Minister,Imbarek Shamekh,Q729476,2000-03-01,2003-06-14
 Prime Minister,Shukri Ghanem,Q471125,2003-06-14,2006-03-05
+Prime Minister,Baghdadi Mahmudi,Q82093,2006-03-05,2011-08-23
 Prime Minister,Mahmoud Jibril,Q296724,2011-03-05,2011-10-23
+Prime Minister,Ali Tarhouni,Q715354,2011-10-23,2011-11-24
 Prime Minister,Abdurrahim El-Keib,Q40579,2011-11-24,2012-11-14
 Prime Minister,Ali Zeidan,Q57847,2012-11-14,2014-03-11
 Prime Minister,Abdullah al-Thani,Q15925685,2014-03-11,2014-05-25
 Prime Minister,Ahmed Miitig,Q16747415,2014-05-04,2014-06-09
 Prime Minister,Abdullah al-Thani,Q15925685,2014-06-10,2014-08-29
+Prime Minister,Omar al-Hasi,Q17613400,2014-09-06,2015-03-31
 Prime Minister,Abdullah al-Thani,Q15925685,2014-09-22,2021-03-15
+Prime Minister,Khalifa al-Ghawi,Q19745310,2015-03-31,2016-04-05
 Prime Minister,Fayez al-Sarraj,Q21089561,2016-04-05,2021-03-15
+Prime Minister,Khalifa al-Ghawi,Q19745310,2016-10-14,2017-03-16
 Prime Minister,Abdulhamid Dbeibeh,Q105319569,2021-03-15,
 Prime Minister,Fathi Bashagha,Q63285566,2022-03-03,
+Deputy Prime Minister,Imbarek Shamekh,Q729476,2008-03-02,2009-03-05
+Deputy Prime Minister,Ali Tarhouni,Q715354,2011-10-02,2011-10-23
+Minister of Defence,Abdullah al-Thani,Q15925685,2013-08-05,2014-10-23
+Minister of Defence,Al-Mahdi Al-Barghathi,Q25999643,2016-01-05,2018-07-29
 Minister of Defence,Fayez al-Sarraj,Q21089561,2018-09-06,2020-08-29
+Minister of Foreign Affairs,Mahmoud Jibril,Q296724,2011-03-05,2011-11-22
 Minister of Foreign Affairs,Mohamed al-Ghariani,Q108443110,2014,2015
+Minister of Foreign Affairs,Mohammed al-Dairi,Q18201431,2014-09-28,2019-02-28
 Minister of Foreign Affairs,Ali Abu Zakouk,Q108443111,2015,2016
 Minister of Foreign Affairs,Mohamed Taha Siala,Q25999645,2016-05-14,2021-03-15
 Minister of Foreign Affairs,Najla Mangoush,Q105977287,2021-03-15,
