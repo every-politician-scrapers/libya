@@ -1,0 +1,407 @@
+{
+  "title": "Mohamed al-Menfi",
+  "pageID": 66630532,
+  "categories": [
+    "1976 births",
+    "Libyan politicians",
+    "Living people",
+    "Heads of state of Libya",
+    "Ambassadors of Libya to Greece",
+    "Members of the Presidential Council (Libya)",
+    "People from Tobruk"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed Yunus al-Menfi (محمد يونس المنفي; born 3 March 1976) is a Libyan diplomat and politician from Tobruk.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Libyan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tobruk"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohamed Yunus al-Menfi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 5 February 2021, he was chosen as the president of the Libyan Presidential Council at the Libyan Political Dialogue Forum.",
+              "links": [
+                {
+                  "text": "Libyan Presidential Council",
+                  "type": "internal",
+                  "page": "Presidential Council (Libya)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Libyan Political Dialogue Forum"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he had served as the Libyan Ambassador to Greece.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Greece"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Libyan politician (born 1976)",
+          "template": "short description"
+        },
+        {
+          "date": "February 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1976",
+          "month": "3",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Amira al-Hassi",
+          "from": "2000",
+          "to": "2004",
+          "end": "div",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Sara al-Menfi",
+          "from": "2005",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "Amira al-Hassi (m. 2000-2004)Sara al-Menfi (m. 2005)"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "alma_mater": {
+            "text": "Tobruk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tobruk University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Diplomat"
+          },
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "image": {
+            "text": "Мухаммад Аль-Манфи (51120607759).jpg"
+          },
+          "caption": {
+            "text": "Al-Menfi in 2021"
+          },
+          "office": {
+            "text": "Chairman of the Presidential Council of Libya",
+            "links": [
+              {
+                "text": "Chairman of the Presidential Council of Libya",
+                "type": "internal",
+                "page": "List of heads of state of Libya"
+              }
+            ]
+          },
+          "vicepresident": {
+            "text": "Musa Al-Koni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Musa Al-Koni"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 March 2021"
+          },
+          "predecessor": {
+            "text": "Fayez al-Sarraj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fayez al-Sarraj"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Libyan Ambassador to Greece",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greece"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "term_end2": {
+            "text": "6 December 2019"
+          },
+          "primeminister2": {
+            "text": "Fayez al-Sarraj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fayez al-Sarraj"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 3, 1976"
+          },
+          "birth_place": {
+            "text": "Tobruk, Libya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tobruk"
+              },
+              {
+                "text": "Libya",
+                "type": "internal",
+                "page": "Libyan Arab Jamahiriya"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Mohamed Younis Ahmed Al-Menfi"
+          },
+          "nationality": {
+            "text": "Libyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Libyan"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Amira al-Hassi (m. 2000-2004)Sara al-Menfi (m. 2005)"
+          },
+          "primeminister": {
+            "text": "Abdul Hamid Dbeibeh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Hamid Dbeibeh"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://afrique.le360.ma/autres-pays/politique/2021/02/06/33431-libye-debut-dune-nouvelle-phase-de-transition-33431",
+          "title": "Libye: début d'une nouvelle phase de transition",
+          "website": "Le360 Afrique",
+          "language": "French",
+          "date": "6 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://almarsad.co/en/2019/12/06/greece-expels-the-gna-affiliated-libyan-ambassador-over-illegal-deal-with-turkey/",
+          "title": "Greece Expels the GNA-Affiliated Libyan Ambassador Over Illegal Deal with Turkey",
+          "work": "Al-Marsad",
+          "date": "6 December 2019",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ambassadorship",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Al-Menfi's period as ambassador in Athens was marked by a tense relationship between the GNA and the Greek government because of the Libyan (GNA)–Turkish accord on maritime boundaries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Athens"
+                },
+                {
+                  "text": "GNA",
+                  "type": "internal",
+                  "page": "Government of National Accord"
+                },
+                {
+                  "text": "Libyan (GNA)–Turkish accord on maritime boundaries",
+                  "type": "internal",
+                  "page": "Libya (GNA)–Turkey maritime deal"
+                }
+              ]
+            },
+            {
+              "text": "He was eventually expelled from Athens in December 2019."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Presidency of Presidential Council",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the Libyan Political Dialogue Forum procedure for choosing a unified executive authority to lead into the 24 December 2021 Libyan general election, al-Menfi ran on a joint ticket with Abdul Hamid al-Dabaib as prime minister and Musa al-Koni and Abdallah al-Lafi as members of the Presidential Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Libyan Political Dialogue Forum",
+                  "anchor": "New executive authority"
+                },
+                {
+                  "text": "24 December 2021 Libyan general election",
+                  "type": "internal",
+                  "page": "2021 Libyan general election"
+                },
+                {
+                  "text": "Abdul Hamid al-Dabaib",
+                  "type": "internal",
+                  "page": "Abdul Hamid Al-Dabaib"
+                },
+                {
+                  "text": "Musa al-Koni",
+                  "type": "internal",
+                  "page": "Musa Al-Koni"
+                }
+              ]
+            },
+            {
+              "text": "Their list obtained 39 votes, five more than that of Aguila Saleh Issa and Fathi Bashagha.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aguila Saleh Issa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fathi Bashagha"
+                }
+              ]
+            },
+            {
+              "text": "The Aguila Saleh–Bashagha list was perceived to be favoured by the United States of America.",
+              "links": [
+                {
+                  "text": "United States of America",
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            {
+              "text": "The US ambassador denied any attempt to influence the electoral process."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2022",
+          "template": "by whom"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "libyan institutional transition"
+        },
+        {
+          "template": "libyaheadsofstate"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "arab country leaders"
+        },
+        {
+          "template": "heads of state of opec member states"
+        },
+        {
+          "template": "libya-politician-stub"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.libyaherald.com/2021/02/05/breaking-new-libya-government-selected-by-lpdf-in-geneva",
+          "title": "BREAKING: New unified Libyan government selected by LPDF in Geneva",
+          "author": "Sami Zaptia",
+          "newspaper": "Libya Herald",
+          "date": "5 February 2021",
+          "archive-url": "https://archive.today/vQqlP",
+          "archive-date": "2021-02-05",
+          "url-status": "live",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.libyaherald.com/2021/02/04/u-s-denies-attempting-to-influence-lpdf-process",
+          "title": "U.S denies attempting to influence LPDF process",
+          "author": "Sami Zaptia",
+          "newspaper": "Libya Herald",
+          "date": "4 February 2021",
+          "archive-url": "https://archive.today/lqbwz",
+          "archive-date": "2021-02-05",
+          "url-status": "live",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
