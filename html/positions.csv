@@ -1,14 +1,19 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q102181806,Chairman of the Presidential Council,,Q1016,,,,,,,
+Q114774988,Deputy Prime Minister of Libya,Q1016,Q1016,,,,,,,
 Q53862230,Foreign Minister of Libya,Q1016,Q1016,,Q4434734,,,,,
 Q30596007,Libyan Ambassador to China,Q1016,,,,,,,,List of ambassadors of Libya to China
 Q28154359,Libyan Ambassador to France,Q1016,,,,,,,,List of ambassadors of Libya to France
 Q114774820,Member of the High Council of State,Q1016,Q1016,,,,,,,
 Q21328602,Member of the House of Representatives of Libya,Q1016,Q1016,,,,,,,
 Q114774835,Minister of Defence,Q1016,Q1016,,,,,,,
+Q114774925,Minister of Finance,,Q1016,,,,,,,
+Q114774924,Minister of Higher Education and Scientific Research,,Q1016,,,,,,,
 Q114774834,Minister of Housing and Utilities,Q1016,Q1016,,,,,,,
+Q114774895,Minister of Internal Affairs of Libya,,Q1016,,,,,,,
+Q114774914,Minister of Justice (Libya),,Q1016,,,,,,,
 Q62714569,Minister of Tourism,Q1016,Q1016,,,,,,,
-Q15305714,Prime Minister of Libya,Q1016,Q1016,,Q1074191,1951-12-24,,,,
+Q15305714,Prime Minister of Libya,Q1016,Q1016,Q114774988,Q1074191,1951-12-24,,,,
 Q113336105,ambassador of Libya to Algeria,,,,,,,,,
 Q40338455,ambassador of Libya to Canada,Q1016,,,,,,,,
 Q113336104,ambassador of Libya to Tanzania,,,,,,,,,
