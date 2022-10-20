@@ -1,6 +1,7 @@
 position,person,personID,start,end
 Chairman of the Presidential Council,Fayez al-Sarraj,Q21089561,2016-03-30,2021-03-15
 Chairman of the Presidential Council,Mohamed al-Menfi,Q105319610,2021-03-15,
+Prime Minister,Muhammad Ahmad al-Mangoush,Q710620,1997-12-29,2000-03-01
 Prime Minister,Imbarek Shamekh,Q729476,2000-03-01,2003-06-14
 Prime Minister,Shukri Ghanem,Q471125,2003-06-14,2006-03-05
 Prime Minister,Baghdadi Mahmudi,Q82093,2006-03-05,2011-08-23
@@ -19,11 +20,27 @@ Prime Minister,Khalifa al-Ghawi,Q19745310,2016-10-14,2017-03-16
 Prime Minister,Abdulhamid Dbeibeh,Q105319569,2021-03-15,
 Prime Minister,Fathi Bashagha,Q63285566,2022-03-03,
 Deputy Prime Minister,Imbarek Shamekh,Q729476,2008-03-02,2009-03-05
+Deputy Prime Minister,Ali Abd-al-Aziz al-Isawi,Q1406024,2011-03-23,2011-08-08
 Deputy Prime Minister,Ali Tarhouni,Q715354,2011-10-02,2011-10-23
+Deputy Prime Minister,Mustafa A.G. Abushagur,Q57904,2011-11-22,2012-11-14
+Minister of Defence,Abu-Bakr Yunis Jabr,Q268588,1970-01-16,2011-10-20
+Minister of Defence,Omar El-Hariri,Q2023088,2011-03-23,2011-05-19
+Minister of Defence,Jalal al-Digheily,Q4117013,2011-05-19,2011-11-22
+Minister of Defence,Osama al-Juwaili,Q544307,2011-11-22,2012-11-14
+Minister of Defence,Mohammed Mahmoud Al Barghathi,Q114775166,2012-11-12,2013-06-27
 Minister of Defence,Abdullah al-Thani,Q15925685,2013-08-05,2014-10-23
+Minister of Defence,Khalifa al-Ghawi,Q19745310,2015-12-01,2016-04-05
 Minister of Defence,Al-Mahdi Al-Barghathi,Q25999643,2016-01-05,2018-07-29
 Minister of Defence,Fayez al-Sarraj,Q21089561,2018-09-06,2020-08-29
+Minister of Defence,Salah Eddine al-Namrush,Q114775167,2020-08-28,2021-03-15
+Minister of Defence,Abdulhamid Dbeibeh,Q105319569,2021-03-15,
+Minister of Foreign Affairs,Umar Mustafa al-Muntasir,Q1264701,1992,2000
+Minister of Foreign Affairs,Abdel Rahman Shalgham,Q307822,2000,2009
+Minister of Foreign Affairs,Moussa Koussa,Q337755,2009,2011
 Minister of Foreign Affairs,Mahmoud Jibril,Q296724,2011-03-05,2011-11-22
+Minister of Foreign Affairs,Abdul Ati al-Obeidi,Q307121,2011-04-06,2011-08-31
+Minister of Foreign Affairs,Ashour Bin Khayal,Q748552,2011-11-22,2012-11-01
+Minister of Foreign Affairs,Mohamed Abdelaziz,Q6890931,2012-11-14,2014-09-28
 Minister of Foreign Affairs,Mohamed al-Ghariani,Q108443110,2014,2015
 Minister of Foreign Affairs,Mohammed al-Dairi,Q18201431,2014-09-28,2019-02-28
 Minister of Foreign Affairs,Ali Abu Zakouk,Q108443111,2015,2016
