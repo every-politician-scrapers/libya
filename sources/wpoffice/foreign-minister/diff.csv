@@ -1,12 +1,8 @@
 @@,item,itemlabel,startdate,enddate
-+++,Q1264701,Umar Mustafa al-Muntasir,1992,2000
-+++,Q307822,Abdel Rahman Shalgham,2000,2009
-+++,Q337755,Moussa Koussa,2009,2011
-+++,Q307121,Abdul Ati al-Obeidi,2011,2011
 ->,Q296724,Mahmoud Jibril,2011-03-05->2011-03-23,2011-11-23
-+++,Q748552,Ashour Bin Khayal,2011-11-24,2012-11-14
-+++,Q6890931,Mohamed Abdelaziz,2012-11-14,2014-09-28
+->,Q748552,Ashour Bin Khayal,2011-11-24,2012-11-01->2012-11-14
+---,Q1858267,Ali Aujali,2012-11-27,2013-01-02
 ---,Q108443110,Mohamed al-Ghariani,2014,2015
 ---,Q108443111,Ali Abu Zakouk,2015,2016
 ->,Q25999645,Mohamed Taha Siala,2016-05-14->2016-03-30,2021-03-15
-+++,,Abdulhadi Elhweg,2019-02-28,2021-03-15
+->,Q63122668,Abdul-Hadi Al-Hawaij->Abdulhadi Elhweg,2019-02-28,2021-03-15
