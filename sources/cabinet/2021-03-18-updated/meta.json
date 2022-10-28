@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+        "name": "Libya",
+        "id": "Q1016"
+    },
+    "cabinet": {
+      "id":     "Q105742549",
+      "start":  "2021-03-18",
+      "start":  "2021-03-19",
+      "parent": "Q3111812"
+    },
+    "reference": {
+        "P854":   "https://www.libyaherald.com/2021/03/names-of-libyas-newly-endorsed-government-of-national-unity/",
+        "P577":   "2021-03-18",
+        "P1476": {
+            "text": "Updated: Names of Libya’s newly endorsed Government of National Unity",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Libya"
+    }
+}
