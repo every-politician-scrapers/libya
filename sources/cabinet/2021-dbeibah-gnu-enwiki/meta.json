@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Libya",
+        "id": "Q1016"
+    },
+    "cabinet": {
+      "id":     "Q105742549",
+      "start":  "2021-03-15",
+      "parent": "Q3111812"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Libya"
+    },
+    "person_description": {
+        "en": "politician in Libya"
+    }
+}
