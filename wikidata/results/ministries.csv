@@ -1,7 +1,4 @@
 item,itemLabel,minister,ministerLabel,began,ended
-Q114884790,Q114884790,,,,
-Q114884794,Q114884794,,,,
-Q114884798,Q114884798,,,,
 Q114884799,Ministry of Culture of Libya,,,,
 Q106407649,Ministry of Defence,Q96393310,Minister of Defence,,
 Q114884789,Ministry of Economy and Trade of Libya,,,,
@@ -10,3 +7,6 @@ Q16448991,Ministry of Foreign Affairs and International koorperation of the Stat
 Q33121688,Ministry of Higher Education and Scientific Research,Q114774924,Minister of Higher Education and Scientific Research,,
 Q6867230,Ministry of Internal Affairs of Libya,Q114774895,Minister of Internal Affairs of Libya,2011,
 Q55648359,Ministry of Justice (Libya),Q114774914,Minister of Justice (Libya),,
+Q114884790,Ministry of Oil and Gas,,,,
+Q114884794,Ministry of Social Affairs,,,,
+Q114884798,Ministry of Youth,,,,
