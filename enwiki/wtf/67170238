@@ -463,6 +463,20 @@
         {
           "sentences": [
             {
+              "text": "On December 7, 2021, Mangoush was named in the BBC 100 Women 2021 list for her work on building links with civil society organisations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BBC 100 Women"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "building links with civil society organisations"
+                ]
+              }
+            },
+            {
               "text": "In 2022, Mangoush received the International Women of Courage Award from the United States Department of State.",
               "links": [
                 {
@@ -479,6 +493,16 @@
         }
       ],
       "references": [
+        {
+          "date": "2021-12-07",
+          "title": "BBC 100 Women 2021: Who is on the list this year?",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-59514598",
+          "access-date": "2021-12-07",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "2022 International Women of Courage Award",
           "url": "https://www.state.gov/2022-international-women-of-courage-award/",
