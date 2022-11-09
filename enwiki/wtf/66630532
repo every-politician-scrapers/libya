@@ -114,6 +114,9 @@
           "profession": {
             "text": "Diplomat"
           },
+          "cabinet": {
+            "text": "bbbbb"
+          },
           "honorific_prefix": {
             "text": "His Excellency",
             "links": [
