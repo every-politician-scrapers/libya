@@ -1,0 +1,78 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q105319569,Abdulhamid Dbeibeh,NormalRank,Q131323,Misrata,true,true,false,,,,
+Q105319610,Mohamed al-Menfi,NormalRank,Q182092,Tobruk,true,true,false,,,,
+Q105977287,Najla Mangoush,NormalRank,Q84,London,true,true,true,false,true,false,false
+Q108443110,Mohamed al-Ghariani,,,,,,false,,,,
+Q108443111,Ali Abu Zakouk,,,,,,false,,,,
+Q114775142,Salah Eddine al-Namroush,,,,,,false,,,,
+Q114884632,Abd Al-Salam Abdullah Al-Lahi-Tiki,,,,,,false,,,,
+Q114884633,Abdel Jumaa Amer,,,,,,false,,,,
+Q114884634,Abdul Fattah Saleh Muhammad Al-Khawja,,,,,,false,,,,
+Q114884635,Abdul Shafi Hussein Muhammad Al-Juifi,,,,,,false,,,,
+Q114884636,Ahmed Ali Muhammad Omar,,,,,,false,,,,
+Q114884637,Ahmed Abu Khuzam,,,,,,false,,,,
+Q114884638,Ali Al-Abed Al-Reda Abu Azoum,,,,,,false,,,,
+Q114884640,Ali Muhammad Miftah Al-Zinati,,,,,,false,,,,
+Q114884641,Badr Al-Din Al-Sadiq Al-Toumi,,,,,,false,,,,
+Q114884642,Fathallah Abd Al-Latif Al-Zani,,,,,,false,,,,
+Q114884643,Halima Ibrahim Abdel Rahman,,,,,,false,,,,
+Q114884644,Hamad Abdul-Razzaq Taher Al-Marimi,,,,,,false,,,,
+Q114884645,Houria Khalifa Miloud,,,,,,false,,,,
+Q114884646,Hussein Atiya Abdul Hafeez Al-Qatrani,,,,,,false,,,,
+Q114884647,Ibrahim Al-Arabi Mounir,,,,,,false,,,,
+Q114884648,Ijdid Maatouk Jadeed,,,,,,false,,,,
+Q114884649,Imran Muhammad Abdul Anabi Al-Qeeb,,,,,,false,,,,
+Q114884650,Kamel Braik Al-Hassi,,,,,,false,,,,
+Q114884651,Khaled Ahmed Mazen,,,,,,false,,,,
+Q114884652,Khaled Al-Mabrouk Abdullah,,,,,,false,,,,
+Q114884653,Mabrouka Othman Oki,,,,,,false,,,,
+Q114884654,Muhammad Ahmad Muhammad Aoun,,,,,,false,,,,
+Q114884655,Muhammad Salem Al-Shahoubi,,,,,,false,,,,
+Q114884656,Musa Muhammad Al-Maqrif,,,,,,false,,,,
+Q114884657,Omar Ali Al-Ajili,,,,,,false,,,,
+Q114884658,Ramadan Ahmed Boujenah,,,,,,false,,,,
+Q114884659,Saeed Sifaw,,,,,,false,,,,
+Q114884660,Salama Ibrahim Al-Ghwail,,,,,,false,,,,
+Q114884661,Tariq Abdel Salam Mustafa Abu Flika,,,,,,false,,,,
+Q114884662,Tawfiq Saeed Moftah Al-Dorsi,,,,,,false,,,,
+Q114884663,Wafaa Abu Bakr Muhammad Al-Kilani,,,,,,false,,,,
+Q114884664,Walid Ammar Muhammad Ammar Al-Lafi,,,,,,false,,,,
+Q114884665,Zuhair Ahmed Mahmoud,,,,,,false,,,,
+Q114886507,Abubaker Mohamed Al-Ghawi,,,,,,false,,,,
+Q114886523,Mohamed Hwej,,,,,,false,,,,
+Q114886531,Fakher Muftah Bufarna,,,,,,false,,,,
+Q114886559,Adel Mohamed Sultan Hassan,,,,,,false,,,,
+Q1264701,Umar Mustafa al-Muntasir,NormalRank,Q1016,Libya,true,false,true,false,false,false,true
+Q1406024,Ali Abd-al-Aziz al-Isawi,NormalRank,Q40816,Benghazi,true,true,true,false,false,false,true
+Q15925685,Abdullah al-Thani,NormalRank,Q182984,Kano,true,true,true,false,false,false,true
+Q16118502,Mohammed Mahmoud Al Barghathi,,,,,,false,,,,
+Q16747415,Ahmed Miitig,NormalRank,Q131323,Misrata,true,true,true,false,false,false,true
+Q17613400,Omar al-Hasi,,,,,,false,,,,
+Q18201431,Mohammed al-Dairi,NormalRank,Q3579,Tripoli,true,true,true,false,false,true,true
+Q1858267,Ali Aujali,NormalRank,Q40816,Benghazi,true,true,false,,,,
+Q19745310,Khalifa al-Ghawi,NormalRank,Q131323,Misrata,true,true,true,false,false,false,true
+Q2023088,Omar El-Hariri,NormalRank,Q1016,Libya,true,false,true,false,false,false,true
+Q21089561,Fayez al-Sarraj,NormalRank,Q3579,Tripoli,true,true,false,,,,
+Q25999643,Al-Mahdi Al-Barghathi,NormalRank,Q40816,Benghazi,true,true,true,false,false,false,true
+Q25999645,Mohamed Taha Siala,,,,,,false,,,,
+Q268588,Abu-Bakr Yunis Jabr,NormalRank,Q36372,Jalu,true,true,true,false,false,false,true
+Q2874655,Awad al-Baraasi,NormalRank,Q40816,Benghazi,true,true,true,false,false,false,true
+Q2929688,Béchir Salah Béchir,NormalRank,Q7832625,Traghan,true,true,false,,,,
+Q296724,Mahmoud Jibril,NormalRank,Q35784,Al Bayda,true,true,true,false,false,false,true
+Q307121,Abdul Ati al-Obeidi,NormalRank,Q284568,Italian Libya,false,false,true,false,false,false,true
+Q307822,Abdel Rahman Shalgham,NormalRank,Q1016,Libya,true,false,true,false,false,false,true
+Q337755,Moussa Koussa,NormalRank,Q3579,Tripoli,true,true,true,false,false,false,true
+Q4117013,Jalal al-Digheily,NormalRank,Q1016,Libya,true,false,false,,,,
+Q471125,Shukri Ghanem,NormalRank,Q3579,Tripoli,true,true,true,false,false,false,true
+Q544307,Osama al-Juwaili,NormalRank,Q61102,Zintan,true,true,true,false,false,false,true
+Q63122668,Abdul-Hadi Al-Hawaij,,,,,,false,,,,
+Q63285566,Fathi Bashagha,NormalRank,Q131323,Misrata,true,true,true,false,false,true,true
+Q6890931,Mohamed Abdelaziz,,,,,,false,,,,
+Q710620,Muhammad Ahmad al-Mangoush,NormalRank,Q1016,Libya,true,false,true,false,false,false,true
+Q715354,Ali Tarhouni,NormalRank,Q427646,Campament of Al Marj,true,true,true,false,false,false,true
+Q729476,Imbarek Shamekh,NormalRank,Q40816,Benghazi,true,true,true,false,false,false,true
+Q748552,Ashour Bin Khayal,NormalRank,Q211866,Derna,true,true,true,false,false,false,true
+Q82093,Baghdadi Mahmudi,NormalRank,Q221503,Zawiya,true,true,true,false,false,false,true
+Q40579,Abdurrahim El-Keib,NormalRank,Q3579,Tripoli,true,true,true,false,false,false,true
+Q57847,Ali Zeidan,NormalRank,Q679352,Waddan,true,true,true,false,false,false,true
+Q57904,Mustafa A.G. Abushagur,NormalRank,Q3579,Tripoli,true,true,true,false,false,false,true
