@@ -161,12 +161,11 @@
             ]
           },
           "party": {
-            "text": "Independent",
+            "text": "Libya Future",
             "links": [
               {
-                "text": "Independent",
                 "type": "internal",
-                "page": "Independent politician"
+                "page": "Libya Future"
               }
             ]
           },
@@ -194,6 +193,15 @@
         }
       ],
       "references": [
+        {
+          "date": "6 February 2021",
+          "title": "Profile of Libya's new executive authority heads",
+          "work": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/africa/profile-of-libyas-new-executive-authority-heads/2135683",
+          "access-date": "21 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "Libyan parliament swears in new PM as crisis deepens",
           "url": "https://www.aljazeera.com/news/2022/3/3/libyan-parliament-swears-in-new-pm-as-crisis-deepens",
