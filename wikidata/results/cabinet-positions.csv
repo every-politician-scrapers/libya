@@ -1,38 +1,38 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q110408951,Q110408951,,,Q1016,Q1016,,
-Q114774988,Deputy Prime Minister of Libya,,,Q1016,Q1016,,
-Q53862230,Foreign Minister of Libya,,,Q1016,Q1016,,
-Q114884391,Minister of Agriculture,,,Q1016,Q1016,,
-Q114884392,Minister of Civil Service,,,Q1016,Q1016,,
-Q114884393,Minister of Culture and Knowledge Development,,,Q1016,Q1016,,
-Q96393310,Minister of Defence,,,Q1016,Q1016,,
-Q114884394,Minister of Economy & Trade,,,Q1016,Q1016,,
-Q114884395,Minister of Education,,,Q1016,Q1016,,
-Q114884396,Minister of Environment,,,Q1016,Q1016,,
-Q114774925,Minister of Finance,Q104882679,Ministry of Finance,,Q1016,,
-Q114884398,Minister of Health,,,Q1016,Q1016,,
-Q114774924,Minister of Higher Education and Scientific Research,Q33121688,Ministry of Higher Education and Scientific Research,,Q1016,,
-Q114774834,Minister of Housing,,,Q1016,Q1016,,
-Q114884399,Minister of Industry and Minerals,,,Q1016,Q1016,,
-Q114774895,Minister of Internal Affairs of Libya,Q6867230,Ministry of Internal Affairs of Libya,,Q1016,,
-Q114774914,Minister of Justice (Libya),Q55648359,Ministry of Justice (Libya),,Q1016,,
-Q114884400,Minister of Labour,,,Q1016,Q1016,,
-Q114884402,Minister of Local Government,,,Q1016,Q1016,,
-Q114884401,Minister of Marine Resources,,,Q1016,Q1016,,
-Q114884403,Minister of Oil and Gas,,,Q1016,Q1016,,
-Q114884404,Minister of Planning,,,Q1016,Q1016,,
-Q114884405,Minister of Social Affairs,,,Q1016,Q1016,,
-Q114884406,Minister of Sports,,,Q1016,Q1016,,
-Q114884407,Minister of State for Communication and Political Affairs,,,Q1016,Q1016,,
-Q114884408,Minister of State for Displaced Affairs and Human Rights,,,Q1016,Q1016,,
-Q114884409,Minister of State for Economic Affairs,,,Q1016,Q1016,,
-Q114884411,Minister of State for Immigration Affairs,,,Q1016,Q1016,,
-Q114884412,Minister of State for Prime Minister and Cabinet Affairs,,,Q1016,Q1016,,
-Q114884413,Minister of State for Women's Affairs,,,Q1016,Q1016,,
-Q114884414,Minister of Technical and Vocational Education,,,Q1016,Q1016,,
-Q62714569,Minister of Tourism,,,Q1016,Q1016,,
-Q114884415,Minister of Transportation,,,Q1016,Q1016,,
-Q114884397,Minister of Water Resources,,,Q1016,Q1016,,
-Q114884416,Minister of Youth,,,Q1016,Q1016,,
-Q15305714,Prime Minister of Libya,,,Q1016,Q1016,1951,
-Q110001658,Transport Minister of Libya,,,Q1016,Q1016,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q110408951,Q110408951,,,Q1016,Q1016,,,1
+Q114774988,Deputy Prime Minister of Libya,,,Q1016,Q1016,,,7
+Q53862230,Foreign Minister of Libya,,,Q1016,Q1016,,,16
+Q114884391,Minister of Agriculture,,,Q1016,Q1016,,,1
+Q114884392,Minister of Civil Service,,,Q1016,Q1016,,,2
+Q114884393,Minister of Culture and Knowledge Development,,,Q1016,Q1016,,,1
+Q96393310,Minister of Defence,,,Q1016,Q1016,,,12
+Q114884394,Minister of Economy & Trade,,,Q1016,Q1016,,,3
+Q114884395,Minister of Education,,,Q1016,Q1016,,,2
+Q114884396,Minister of Environment,,,Q1016,Q1016,,,1
+Q114774925,Minister of Finance,Q104882679,Ministry of Finance,,Q1016,,,1
+Q114884398,Minister of Health,,,Q1016,Q1016,,,2
+Q114774924,Minister of Higher Education and Scientific Research,Q33121688,Ministry of Higher Education and Scientific Research,,Q1016,,,1
+Q114774834,Minister of Housing,,,Q1016,Q1016,,,3
+Q114884399,Minister of Industry and Minerals,,,Q1016,Q1016,,,1
+Q114774895,Minister of Internal Affairs of Libya,Q6867230,Ministry of Internal Affairs of Libya,,Q1016,,,2
+Q114774914,Minister of Justice (Libya),Q55648359,Ministry of Justice (Libya),,Q1016,,,1
+Q114884400,Minister of Labour,,,Q1016,Q1016,,,1
+Q114884402,Minister of Local Government,,,Q1016,Q1016,,,1
+Q114884401,Minister of Marine Resources,,,Q1016,Q1016,,,2
+Q114884403,Minister of Oil and Gas,,,Q1016,Q1016,,,1
+Q114884404,Minister of Planning,,,Q1016,Q1016,,,2
+Q114884405,Minister of Social Affairs,,,Q1016,Q1016,,,1
+Q114884406,Minister of Sports,,,Q1016,Q1016,,,1
+Q114884407,Minister of State for Communication and Political Affairs,,,Q1016,Q1016,,,1
+Q114884408,Minister of State for Displaced Affairs and Human Rights,,,Q1016,Q1016,,,1
+Q114884409,Minister of State for Economic Affairs,,,Q1016,Q1016,,,1
+Q114884411,Minister of State for Immigration Affairs,,,Q1016,Q1016,,,1
+Q114884412,Minister of State for Prime Minister and Cabinet Affairs,,,Q1016,Q1016,,,1
+Q114884413,Minister of State for Women's Affairs,,,Q1016,Q1016,,,1
+Q114884414,Minister of Technical and Vocational Education,,,Q1016,Q1016,,,1
+Q62714569,Minister of Tourism,,,Q1016,Q1016,,,2
+Q114884415,Minister of Transportation,,,Q1016,Q1016,,,1
+Q114884397,Minister of Water Resources,,,Q1016,Q1016,,,1
+Q114884416,Minister of Youth,,,Q1016,Q1016,,,1
+Q15305714,Prime Minister of Libya,,,Q1016,Q1016,1951,,34
+Q110001658,Transport Minister of Libya,,,Q1016,Q1016,,,1
