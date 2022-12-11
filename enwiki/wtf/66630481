@@ -84,6 +84,15 @@
           "name": {
             "text": "Abdul Hamid Al-Dbeibeh"
           },
+          "image": {
+            "text": "Abdul Hamid Dbeibeh (15-04-2021).jpg"
+          },
+          "image_size": {
+            "text": "200px"
+          },
+          "caption": {
+            "text": "Al-Dbeibeh in 2021"
+          },
           "office": {
             "text": "Prime Minister of Libya",
             "links": [
@@ -177,15 +186,6 @@
                 "page": "Mohamed al-Menfi"
               }
             ]
-          },
-          "image": {
-            "text": "Abdul Hamid Dbeibeh (15-04-2021).jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Al-Dbeibeh in 2021"
           },
           "footnotes": {
             "text": "*Dbeibeh's premiership was disputed by Fathi Bashagha since 3 March 2022."
