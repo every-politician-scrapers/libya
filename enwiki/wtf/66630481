@@ -510,10 +510,11 @@
         {
           "url": "https://www.bloomberg.com/news/articles/2021-03-10/libya-s-lawmakers-approve-first-unified-government-since-2014",
           "title": "Libya Lawmakers Approve First Unified Government Since 2014",
+          "newspaper": "Bloomberg.com",
           "date": "10 March 2021",
           "via": "www.bloomberg.com",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "template": "citation",
